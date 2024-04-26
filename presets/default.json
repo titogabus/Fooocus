@@ -44,6 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "Arienmixsdxl20asian.W4Ow.safetensors": "https://civitai.com/api/download/models/448627"
+        "LiangYiu.safetensors": "https://civitai.com/api/download/models/109892"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
